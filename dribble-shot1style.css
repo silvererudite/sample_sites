@@ -1,0 +1,36 @@
+body{
+    margin-top: 0%;
+    padding-top: 0%;
+   }
+  .first{
+    height: 500px;
+    background-color:#efeeed;
+    display: flex;
+    justify-content: space-around;
+  }
+
+.img-1{
+ margin-top: 4%;
+ /* overflow-y: visible; */
+ margin-bottom: calc(50% - 55vw);
+}
+
+h1{
+  font-size: 40px;
+}
+.opening{
+  margin-top: 10%;
+}
+.main-text{
+  font-family: 'Libre Baskerville', serif;
+}
+.sub-text{
+  font-family: 'Raleway', sans-serif;
+}
+.sub-text2{
+  font-size: 40px;
+}
+.second{
+  margin-top: 15%;
+  margin-left: 20%;
+}
