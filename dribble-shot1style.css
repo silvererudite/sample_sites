@@ -4,9 +4,11 @@ body{
    }
   .first{
     height: 500px;
-    background-color:#efeeed;
+    /* background-color:#efeeed; */
+    background-color: #e8ddd5;
     display: flex;
     justify-content: space-around;
+   
   }
 
 .img-1{
@@ -33,4 +35,9 @@ h1{
 .second{
   margin-top: 15%;
   margin-left: 20%;
+  
+}
+.middle{
+  display: flex;
+  justify-content: space-around;
 }
