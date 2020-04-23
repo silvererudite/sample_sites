@@ -1,0 +1,12 @@
+.form-structure{
+    /* position: absolute; */
+    width: 300px;
+    height: 400px;
+    left: 420px;
+    top: 524px;
+    background: url(Rectangle\ 6.png);
+    background-repeat: no-repeat;
+    mix-blend-mode: normal;
+    border-radius: 30px;
+    /* transform: rotate(180deg); */
+    }
