@@ -1,0 +1,19 @@
+.outer-wrap{
+    display: grid;
+    height: 500px;
+    grid-template-columns: 1fr 1fr;
+    column-gap: 1em;
+}
+.left-col-list{
+    display: grid;
+    grid-template-columns: 1fr;
+    
+}
+.article-list{
+    display: flex;
+    height: 200px;
+    overflow: hidden;
+}
+h4{
+    padding-left: 1em;
+}
