@@ -17,3 +17,17 @@
 h4{
     padding-left: 1em;
 }
+@media(max-width: 768px){
+   .outer-wrap{
+       display: flex;
+       flex-direction: column;
+   }
+   .article-list img{
+        width: 40%;
+   }
+   .right-big-img img{
+        width: 100%;
+   }
+   
+   
+}
